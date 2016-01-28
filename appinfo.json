@@ -1,0 +1,65 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "bcaller@gmail.com",
+    "longName": "Chinese New Year XinNianKuaiLe",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "images/menu.png",
+                "menuIcon": true,
+                "name": "MENU",
+                "targetPlatforms": null,
+                "type": "bitmap"
+            },
+            {
+                "file": "images/fuconverted.png",
+                "name": "FU",
+                "targetPlatforms": null,
+                "type": "bitmap"
+            },
+            {
+                "characterRegex": "[0-9:]",
+                "file": "fonts/shanghai.ttf",
+                "name": "SHANGHAI_40",
+                "targetPlatforms": null,
+                "trackingAdjust": -1,
+                "type": "font"
+            },
+            {
+                "file": "images/monkey.png",
+                "name": "MONKEY",
+                "targetPlatforms": null,
+                "type": "bitmap"
+            },
+            {
+                "file": "images/goat.png",
+                "name": "GOAT",
+                "targetPlatforms": null,
+                "type": "bitmap"
+            },
+            {
+                "characterRegex": "[A0-9!&'()*+,-.dcYRHNXQTZShWaxwb\\[k>Kl!]",
+                "file": "fonts/woziku.ttf",
+                "name": "WOZIKU_28",
+                "targetPlatforms": null,
+                "trackingAdjust": 6,
+                "type": "font"
+            }
+        ]
+    },
+    "sdkVersion": "3",
+    "shortName": "XinNianKuaiLe",
+    "targetPlatforms": [
+        "basalt",
+        "chalk"
+    ],
+    "uuid": "7820c2f7-426b-4f34-b6af-5ca398633958",
+    "versionLabel": "1.01",
+    "watchapp": {
+        "watchface": true
+    }
+}
