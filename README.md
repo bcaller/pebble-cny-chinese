@@ -1,6 +1,9 @@
 # pebble-cny-chinese
 新年快乐
 
+![Basalt](https://raw.githubusercontent.com/bcaller/pebble-cny-chinese/master/anim-basalt.gif "Basalt")
+![Chalk](https://raw.githubusercontent.com/bcaller/pebble-cny-chinese/master/anim-chalk.gif "Chalk")
+
 ##License
 Code is GPL but the resource images and fonts are not (I didn't make them).
 
